@@ -1,0 +1,13 @@
+.ui {
+  width: 500px;
+}
+
+.toolbox : {
+  display: flex;
+  flex-direction: row;
+}
+
+.toolbox-item {
+  display: flex;
+  justify-content: space-between;
+}
