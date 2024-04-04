@@ -2,7 +2,7 @@
   width: 500px;
 }
 
-.toolbox : {
+.toolbox {
   display: flex;
   flex-direction: row;
 }

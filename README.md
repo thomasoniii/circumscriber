@@ -1,6 +1,6 @@
 # circumscriber
 
-Just a little drawing toy I was playing with.
+Just a little drawing toy I was playing with. You can see it online @ https://thomasoniii.github.io/circumscriber/
 
 Download it, then:
 
