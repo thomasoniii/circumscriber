@@ -5,7 +5,7 @@ import { Circumscriber } from "./Circumscriber";
 
 function App() {
   const [numCircles, setNumCircles] = useState(0);
-  const [radius, setRadius] = useState(495);
+  const [radius, setRadius] = useState(248);
   const [angleOffset, setAngleOffset] = useState(-90);
   const [rotationalSpeed, setRotationalSpeed] = useState(1);
   const [recursive, setRecursive] = useState(false);
@@ -20,8 +20,8 @@ function App() {
         doubleRecursive={doubleRecursive}
         angleOffset={angleOffset}
         rotationalSpeed={rotationalSpeed}
-        width={1000}
-        height={1000}
+        width={500}
+        height={500}
       />
       <div className="toolbox">
         <div className="toolbox-item">

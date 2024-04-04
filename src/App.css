@@ -4,7 +4,7 @@
 
 .toolbox {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 .toolbox-item {
